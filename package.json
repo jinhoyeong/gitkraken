@@ -1,0 +1,19 @@
+{
+  "name": "gitkraken",
+  "version": "1.0.0",
+  "description": "gitkraken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinhoyeong/gitkraken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinhoyeong/gitkraken/issues"
+  },
+  "homepage": "https://github.com/jinhoyeong/gitkraken#readme"
+}
